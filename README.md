@@ -103,14 +103,13 @@ OR MobileNetV2/EfficientNet (for real fashion images)
 
 Add your notebook link here:
 
-📓 Training Notebook: https://github.com/<yourname>/fashion-training-notebook
+📓 Training Notebook:(https://github.com/Harsha3443/PixeLook-/)
 
 🖼️ Screenshots (Optional but recommended)
 
 Add screenshots of your Streamlit UI:
 
-![Upload Screen](img/upload.png)
-![Prediction Screen](img/predict.png)
+
 
 🤖 Future Improvements
 
@@ -119,6 +118,8 @@ Upgrade to EfficientNetB0 / MobileNetV2
 Deploy on Streamlit Cloud or HuggingFace Spaces
 
 Add option to capture photo using webcam
+
+
 
 Multi-label prediction (outfit + accessories)
 
