@@ -132,3 +132,8 @@ TensorFlow Team
 Fashion-MNIST / Polyvore dataset
 
 Streamlit
+
+
+To view live demo:
+
+https://pixelook.streamlit.app/
